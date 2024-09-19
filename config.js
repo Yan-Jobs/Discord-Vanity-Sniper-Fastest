@@ -1,6 +1,6 @@
 module.exports = {
-    GUILDID: "1218573725591666708",
-    TOKEN1: "ODUyNzk5OTYwODU5OTM0NzYw.GBYQlI.4QqMMZVW8X7a8WMDclZx4EzOLa9nMZUkJMXlio",
-    TOKEN2: "ODUyNzk5OTYwODU5OTM0NzYw.GBYQlI.4QqMMZVW8X7a8WMDclZx4EzOLa9nMZUkJMXlio",
-    WEBHOOK: "https://discord.com/api/webhooks/1220046130415669250/2gzzIm1fxXXyZ8r61UvETAna_jRbGiRmWY7URls5xdeLHtlQDF65QtJ5iIwmWhh2FstQ",
+    GUILDID: "",
+    TOKEN1: "",
+    TOKEN2: "",
+    WEBHOOK: "",
 };
